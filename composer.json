@@ -20,7 +20,7 @@
     "psr/log": "^2.0 || ^3.0",
     "symfony/console": "^7.0",
     "membrane/openapi-reader": "^2.0.0",
-    "membrane/openapi-router": "^0.4.0"
+    "membrane/openapi-router": "dev-update-for-laravel-11"
   },
   "require-dev": {
     "phpunit/phpunit": "^10.1",
